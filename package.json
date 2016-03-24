@@ -1,0 +1,27 @@
+{
+  "name": "risingtides",
+  "version": "1.0.0",
+  "description": "Sketch of climate change awareness site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/declanv/risingtides.git"
+  },
+  "author": "Declan Van Welie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/declanv/risingtides/issues"
+  },
+  "homepage": "https://github.com/declanv/risingtides#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-sass": "^2.2.0"
+  },
+  "dependencies": {
+    "del": "^2.2.0"
+  }
+}
